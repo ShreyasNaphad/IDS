@@ -1,10 +1,10 @@
 import streamlit as st
 import seaborn as sns
-import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
 import joblib
 from collections import Counter
+import seaborn as sns
 
 
 # Load the trained logistic regression model
